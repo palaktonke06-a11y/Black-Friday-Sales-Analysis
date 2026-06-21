@@ -10,10 +10,9 @@
 
 # 📌 Project Overview
 
-The Black Friday Sales Analysis project focuses on understanding customer purchasing behavior during Black Friday shopping events. The dataset was analyzed using Exploratory Data Analysis (EDA) and Feature Engineering techniques to uncover meaningful insights, identify spending patterns, and understand the factors influencing customer purchases.
+The Black Friday Sales Analysis project explores customer purchasing behavior during Black Friday sales using Exploratory Data Analysis (EDA) and Feature Engineering techniques. The dataset was cleaned, transformed, and analyzed to identify spending patterns and key factors influencing customer purchases.
 
-The project demonstrates the complete data analysis workflow, including data cleaning, data transformation, visualization, and feature engineering using Python. The insights generated from this analysis can help businesses improve customer targeting, product recommendations, and marketing strategies.
-
+Using Python, Pandas, NumPy, Matplotlib, and Seaborn, the project provides valuable insights into customer preferences and purchasing trends that can support data-driven business decisions.
 ---
 
 # 🎯 Project Objectives
@@ -36,6 +35,26 @@ The project demonstrates the complete data analysis workflow, including data cle
 | NumPy      | Numerical Computations         |
 | Matplotlib | Data Visualization             |
 | Seaborn    | Statistical Visualization      |
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Dataset
+   ↓
+Data Understanding
+   ↓
+Data Cleaning
+   ↓
+Feature Engineering
+   ↓
+Exploratory Data Analysis (EDA)
+   ↓
+Visualization & Insights
+   ↓
+Conclusion
+```
 
 ---
 
